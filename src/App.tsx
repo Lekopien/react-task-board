@@ -32,7 +32,7 @@ export default function App() {
     <div className="app">
       <header>
         <div>
-          <a className="brand" href="https://lekopien.com">lekopien<span>.</span>tasks</a>
+          <a className="brand" href="https://lekopien.com" aria-label="Lekopien home"><img src="/lekopien-mark.svg" width="24" height="24" alt="" /><b>LEKOPIEN</b><small>tasks</small></a>
           <h1>Task board</h1>
         </div>
         <div className="progress" aria-label={`${pct}% done`}>
