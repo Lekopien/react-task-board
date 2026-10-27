@@ -47,3 +47,7 @@ Cloudflare Workers serves `dist/` with SPA routing (`wrangler.jsonc`). In **Clou
 ## License
 
 MIT
+
+## Author
+
+Built by **David Lekopien** ([@Lekopien](https://github.com/Lekopien)) · [lekopien.com](https://lekopien.com)
